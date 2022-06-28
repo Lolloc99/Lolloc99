@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lolloc99
 - 👀 I’m interested in learn programming
-- 🌱 I’m currently learning html, css and other... i hope
+- 🌱 I’m currently learning html, css, javascript (with VueJs) and php (with Laravel) :O
 - 💞️ I’m looking to collaborate with nobody for now ♥
 - 📫 How to reach me [don't do it]
 
